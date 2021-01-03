@@ -9,7 +9,7 @@ Random Zones is a really simple script that just selects a random zone from a li
  
 ### Git Clone
 
-1. Run CMD in your "resources" folder and type "git clone https://github.com/Cloud-Developments/random_zones.git".
+1. Run CMD in your "resources" folder and type "git clone https://github.com/cloudy-develop/random-zones.git".
 2. Edit the "config.lua" to your liking.
 3. Enjoy your random zones.
 
